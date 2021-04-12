@@ -1,0 +1,1 @@
+{"version":3,"file":"RegisterData.js","sourceRoot":"","sources":["RegisterData.ts"],"names":[],"mappings":";;;AAAA,MAAa,YAAY;IAKrB,YAAY,KAAa,EAAE,QAAgB,EAAE,QAAgB;QACzD,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;QACnB,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC;QACzB,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC,CAAC,0CAA0C;IACxE,CAAC;CACJ;AAVD,oCAUC"}
